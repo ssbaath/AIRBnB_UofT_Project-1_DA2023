@@ -3,10 +3,10 @@
 New York is the largest city in the United States, with an estimated 2022 population of 8.948 million. This data set comprises of the people who locally live there as well as the tourists which visit the city annually. It is a major tourist attraction with many people visiting the city from various countries like Spain, France, Russia, etc. It is a favourite vacation spot for many families. With many people also working in the city, it is always a challenge to find a suitable living space which is affordable and in suitable locality. Therefore with the available dataset and contributing analysis of the data, we will try providing a cost effective locations to the clients.
 
 1. Goals of success:
-    Creating a suitable price range as per the size and cost of the living space.
-    Allocate the locations as per accurate client ratings.
-    Provide details regarding the climate zone as per longitudinal and latitudinal data and other essential places around the prospective location.
-    Ensuring accuracy of the data and not wasting the client’s time and space.
+   (a)Creating a suitable price range as per the size and cost of the living space.
+   (b)Allocate the locations as per accurate client ratings.
+   (c)Provide details regarding the climate zone as per longitudinal and latitudinal data and other essential places around the prospective location.
+   (d)Ensuring accuracy of the data and not wasting the client’s time and space.
     Establishing a good long term Owner-Client relationship.
 
 2. Validity and reliability of the model is checked through the preparation of the data. The data is prepared by cleaning, integrating, reducing and feature selecting the data. The source quality is measured through the accuracy , completeness, consistency, timeliness, believability, value added, interpretability and accessibility.
