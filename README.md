@@ -41,7 +41,7 @@ New York is the largest city in the United States, with an estimated 2022 popula
     
 
 
-![alt text](https://github.com/ssbaath/AIRBnB_UofT_Project-1_DA2023/image.jpg?raw=true)
+![Reference Image](main/Images/graph1.png)
 
 
     
