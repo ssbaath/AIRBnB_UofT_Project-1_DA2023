@@ -1,19 +1,19 @@
-# AIRBnB_UofT_Project-1_DA2023
+# AIRBnB_UofT_Project-1_DA2023 #
 
 New York is the largest city in the United States, with an estimated 2022 population of 8.948 million. This data set comprises of the people who locally live there as well as the tourists which visit the city annually. It is a major tourist attraction with many people visiting the city from various countries like Spain, France, Russia, etc. It is a favourite vacation spot for many families. With many people also working in the city, it is always a challenge to find a suitable living space which is affordable and in suitable locality. Therefore with the available dataset and contributing analysis of the data, we will try providing a cost effective locations to the clients.
 
-1. Goals of success:
-   #Creating a suitable price range as per the size and cost of the living space.
-   #Allocate the locations as per accurate client ratings.
-   #Provide details regarding the climate zone as per longitudinal and latitudinal data and other essential places around the prospective location.
-   #Ensuring accuracy of the data and not wasting the client’s time and space.
-   #Establishing a good long term Owner-Client relationship.
+### Goals of success ###
+1. Creating a suitable price range as per the size and cost of the living space.
+2. Allocate the locations as per accurate client ratings.
+3. Provide details regarding the climate zone as per longitudinal and latitudinal data and other essential places around the prospective location.
+4. Ensuring accuracy of the data and not wasting the client’s time and space.
+5. Establishing a good long term Owner-Client relationship.
 
 2. Validity and reliability of the model is checked through the preparation of the data. The data is prepared by cleaning, integrating, reducing and feature selecting the data. The source quality is measured through the accuracy , completeness, consistency, timeliness, believability, value added, interpretability and accessibility.
 
-3. Results
+### Results ###
 
-#16 Identified the types of Attributes:
+1. There are 16 identified types of Attributes:
 
     id : Discrete - Numeric Attribute
     name : Nominal Attribute
@@ -32,13 +32,21 @@ New York is the largest city in the United States, with an estimated 2022 popula
     calculated_host_listings_count : Discrete-Numeric Attribute
     availability_365 : Discrete-Numeric Attribute
     
-#There are three types of rooms available in the data set :-
+2. There are three types of rooms available in the data set :-
 
-    Private Room
-    Entire home/apt
-    Shared room
+    Entire home/apt: Highest Availability 
+    Private Room : Second Highest Availability 
+    Shared room : Lowest Availability 
+    
+    
 
-#Univariate Analysis
+
+![alt text](https://github.com/ssbaath/AIRBnB_UofT_Project-1_DA2023/image.jpg?raw=true)
+
+
+    
+
+3. Univariate Analysis
 
 (a)
 
